@@ -19,3 +19,4 @@
 2. Star the project :P
 3. Install in Magisk
 4. Reboot!
+
